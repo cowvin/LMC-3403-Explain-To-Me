@@ -37,7 +37,7 @@ tags:
     externalDocs:
       description: Wikipedia
       url: https://en.wikipedia.org/wiki/Automatic_summarization
-host: explaintome.herokuapp.com
+host: lmc-explaintome.herokuapp.com/
 basePath: /api/v1.0
 schemes:
   - https
